@@ -39,10 +39,10 @@ Svaraðu spurningunum eftir bestu getu og vistaðu skjalið aftur í VEF2VF geym
     2. HTTP staðalinn er samskiptastaðall sem höndlar samskipti milli vafra (client) og vefþjóna (webservers)
     3. HTTP staðalinn er neðsta lagið í 7 laga OSI staðlinum.
 1. Skiptu upp eftrifarandi vefslóð (URL) http://www.mbl.is/frettir?a=2&b=3
-    1. protocol: (svar hér)
-    2. host: (svar hér)
-    3. path: (svar hér)
-    4. query 
+    1. protocol: http
+    2. host: www.mbl.is
+    3. path: frettir
+    4. ?a=2&b=3
 1. Hvað er átt við með því þegar talað er um að HTTP staðallinn sé stateless protocol?
     
     **Svar:**  
